@@ -16,7 +16,7 @@ namespace Loli
         {
             InitializeComponent();
         }
-
+        Random y = new Random();
         private void Random_Load(object sender, EventArgs e)
         {
 

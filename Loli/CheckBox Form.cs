@@ -72,8 +72,4 @@ namespace Loli
 
     }
 
-    private void BackBttn_Click(object sender, EventArgs e)
-        {
-           
-        }
     }
